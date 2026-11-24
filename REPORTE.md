@@ -6,9 +6,10 @@
 
 | # | Entregable | Enlace |
 |---|---|---|
-| 1 | App en línea (Streamlit Community Cloud) | `https://<tu-app>.streamlit.app` |
-| 2 | Estadísticas y gráficas de entrenamiento (Weights & Biases) | `https://wandb.ai/<tu-usuario>/house-purchase` |
-| 3 | Este reporte | — |
+| 1 | App en línea (Streamlit Community Cloud) | https://prediccion-compra-casa.streamlit.app |
+| 2 | Estadísticas y gráficas de entrenamiento (Weights & Biases) | https://forge.coreweave.com/wandb/brendamonesmicd-buap/house-purchase |
+| 3 | Código fuente | https://github.com/brendamonesmicd/house-purchase |
+| 4 | Este reporte | — |
 
 ## 1. Datos
 

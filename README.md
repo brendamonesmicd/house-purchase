@@ -3,6 +3,9 @@
 Clasificador binario sobre el [Global House Purchase Decision Dataset](https://www.kaggle.com/datasets/mohankrishnathalla/global-house-purchase-decision-dataset)
 (200 000 registros) y app web en Streamlit para vendedores.
 
+- **App en línea:** https://prediccion-compra-casa.streamlit.app
+- **Entrenamientos (W&B):** https://forge.coreweave.com/wandb/brendamonesmicd-buap/house-purchase
+
 | Archivo | Qué es |
 |---|---|
 | `train.py` | Split 70/10/20, entrena 4 modelos × 2 escenarios y registra todo en Weights & Biases |
