@@ -24,7 +24,7 @@
       "test_tuned/recall": 0.8995,
       "test_tuned/f1": 0.879,
       "best_threshold": 0.42,
-      "train_time_s": 1.0715
+      "train_time_s": 0.996
     },
     "decision_tree": {
       "train/accuracy": 1.0,
@@ -50,7 +50,7 @@
       "test_tuned/recall": 1.0,
       "test_tuned/f1": 1.0,
       "best_threshold": 0.05,
-      "train_time_s": 1.3652
+      "train_time_s": 1.2668
     },
     "random_forest": {
       "train/accuracy": 1.0,
@@ -76,7 +76,7 @@
       "test_tuned/recall": 1.0,
       "test_tuned/f1": 1.0,
       "best_threshold": 0.26,
-      "train_time_s": 19.2463
+      "train_time_s": 16.4857
     },
     "lightgbm": {
       "train/accuracy": 1.0,
@@ -102,7 +102,7 @@
       "test_tuned/recall": 1.0,
       "test_tuned/f1": 1.0,
       "best_threshold": 0.05,
-      "train_time_s": 35.6246
+      "train_time_s": 27.6329
     }
   },
   "sin_visita": {
@@ -130,7 +130,7 @@
       "test_tuned/recall": 0.9032,
       "test_tuned/f1": 0.553,
       "best_threshold": 0.24,
-      "train_time_s": 1.2715
+      "train_time_s": 1.0435
     },
     "decision_tree": {
       "train/accuracy": 0.77,
@@ -156,7 +156,7 @@
       "test_tuned/recall": 0.9986,
       "test_tuned/f1": 0.5727,
       "best_threshold": 0.31,
-      "train_time_s": 1.5409
+      "train_time_s": 1.3827
     },
     "random_forest": {
       "train/accuracy": 0.7697,
@@ -182,7 +182,7 @@
       "test_tuned/recall": 1.0,
       "test_tuned/f1": 0.5727,
       "best_threshold": 0.14,
-      "train_time_s": 27.7726
+      "train_time_s": 21.2848
     },
     "lightgbm": {
       "train/accuracy": 0.7728,
@@ -208,7 +208,7 @@
       "test_tuned/recall": 0.9989,
       "test_tuned/f1": 0.5725,
       "best_threshold": 0.28,
-      "train_time_s": 4.2802
+      "train_time_s": 6.3972
     }
   }
 }
